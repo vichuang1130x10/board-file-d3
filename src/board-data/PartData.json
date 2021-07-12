@@ -1,0 +1,447 @@
+[
+  {
+    "shapeName": "cap0402",
+    "width": 1,
+    "length": 0.5
+  },
+  {
+    "shapeName": "res0201",
+    "width": 0.6,
+    "length": 0.3
+  },
+  {
+    "shapeName": "cap0603",
+    "width": 1.6,
+    "length": 0.8
+  },
+  {
+    "shapeName": "cap_svpg_c8_nom",
+    "width": 6.6,
+    "length": 6.6
+  },
+  {
+    "shapeName": "cap0201",
+    "width": 0.6,
+    "length": 0.3
+  },
+  {
+    "shapeName": "cap0402_wide",
+    "width": 1,
+    "length": 0.5
+  },
+  {
+    "shapeName": "res0402",
+    "width": 1,
+    "length": 0.5
+  },
+  {
+    "shapeName": "cap0805",
+    "width": 2.0,
+    "length": 1.25
+  },
+  {
+    "shapeName": "BGA1760_42X42_4250X4250X0371_0100_XLX-XCZU19EG-3FFVD1760E-ND",
+    "width": 42,
+    "length": 42
+  },
+  {
+    "shapeName": "SOT23-5",
+    "width": 3,
+    "length": 1.6
+  },
+  {
+    "shapeName": "pson10_3x3_0.5p-EP",
+    "width": 3,
+    "length": 3
+  },
+  {
+    "shapeName": "cap7343_d",
+    "width": 7.3,
+    "length": 4.3
+  },
+  {
+    "shapeName": "QFN64_0900X0900X0095_0050_EP_SILAB-SI5341B-B-GM",
+    "width": 9,
+    "length": 9
+  },
+  {
+    "shapeName": "QFN48_0600X0600X0095_0040_EP_SILAB-SI52208-A01AGM",
+    "width": 9,
+    "length": 9
+  },
+  {
+    "shapeName": "ind2_rect_11x8",
+    "width": 11,
+    "length": 8
+  },
+  {
+    "shapeName": "son6_1.5x1_0.5p",
+    "width": 1.5,
+    "length": 1
+  },
+  {
+    "shapeName": "ind2_rect_2_00x1_25",
+    "width": 2,
+    "length": 1.25
+  },
+  {
+    "shapeName": "bga201-10x10-0.65p",
+    "width": 10,
+    "length": 10
+  },
+  {
+    "shapeName": "wson8-8x6-1.27p-EP",
+    "width": 8,
+    "length": 6
+  },
+  {
+    "shapeName": "msop8-3x3-0.65p",
+    "width": 3,
+    "length": 3
+  },
+  {
+    "shapeName": "cap1206_1.8h",
+    "width": 3.2,
+    "length": 1.6
+  },
+  {
+    "shapeName": "ind2_rect_1.0x0.5",
+    "width": 1,
+    "length": 0.5
+  },
+  {
+    "shapeName": "ind2_rect_11.1x8.1_ALT",
+    "width": 11.1,
+    "length": 8.1
+  },
+  {
+    "shapeName": "XTAL_ECS_ECS-250-20-33-TR",
+    "width": 3.2,
+    "length": 2.5
+  },
+  {
+    "shapeName": "ind2_rect_1.6x0.8",
+    "width": 1.6,
+    "length": 0.8
+  },
+  {
+    "shapeName": "SOJ4",
+    "width": 7.9,
+    "length": 3.8
+  },
+  {
+    "shapeName": "CAP_C_0805",
+    "width": 2,
+    "length": 1.25
+  },
+  {
+    "shapeName": "ind2_rect_3.2x2.5",
+    "width": 3.2,
+    "length": 2.5
+  },
+  {
+    "shapeName": "con1_rs_pro_262-2179",
+    "width": 0,
+    "length": 0
+  },
+  {
+    "shapeName": "qfn56-7x7-0.4p-5.6EP",
+    "width": 7,
+    "length": 7
+  },
+  {
+    "shapeName": "SOIC-8",
+    "width": 6,
+    "length": 4.9
+  },
+  {
+    "shapeName": "SOIC14",
+    "width": 8.5,
+    "length": 3.8
+  },
+  {
+    "shapeName": "CON_WRTH_9774025151R",
+    "width": 0,
+    "length": 0
+  },
+  {
+    "shapeName": "SOP8",
+    "width": 5.18,
+    "length": 5.13
+  },
+  {
+    "shapeName": "SOT-553",
+    "width": 1.6,
+    "length": 1.2
+  },
+  {
+    "shapeName": "con288_te_ddr4-2199155",
+    "width": 145,
+    "length": 5.8
+  },
+  {
+    "shapeName": "osc4_3.2x2.5",
+    "width": 3.2,
+    "length": 2.5
+  },
+  {
+    "shapeName": "OSC_MICCT_DSC6001CI2A",
+    "width": 2.0,
+    "length": 1.6
+  },
+  {
+    "shapeName": "pqfn32-6x6-0.5p-ir3555_sp",
+    "width": 6,
+    "length": 6
+  },
+  {
+    "shapeName": "xtal4_2x1.6",
+    "width": 2,
+    "length": 1.6
+  },
+  {
+    "shapeName": "con75_67pins_te-2199230-3",
+    "width": 21.9,
+    "length": 11
+  },
+  {
+    "shapeName": "con20_samtec_ftsh_dv",
+    "width": 13,
+    "length": 7.2
+  },
+  {
+    "shapeName": "con10_samtec_ftsh_dv",
+    "width": 6.5,
+    "length": 7.2
+  },
+  {
+    "shapeName": "qfn48-7x7-0.5p-5.1EP",
+    "width": 7,
+    "length": 7
+  },
+  {
+    "shapeName": "CON_WRTH_9774080360R",
+    "width": 7.5,
+    "length": 7.5
+  },
+  {
+    "shapeName": "uqfn8-1.5x1.5-0.5p",
+    "width": 1.5,
+    "length": 1.5
+  },
+  {
+    "shapeName": "con25s10p_ra_te_2-1926739-5_PRESSFIT",
+    "width": 0,
+    "length": 0
+  },
+  {
+    "shapeName": "tvsop14-3.6x4.4-0.4p_IPC",
+    "width": 3.6,
+    "length": 4.4
+  },
+  {
+    "shapeName": "soic16-10.3x7.5-1.27p",
+    "width": 10.3,
+    "length": 7.5
+  },
+  {
+    "shapeName": "tran_PowerPAK_1212-8",
+    "width": 3.3,
+    "length": 3.3
+  },
+  {
+    "shapeName": "pqfn26-5x7-0.5p-ir38062",
+    "width": 5,
+    "length": 7
+  },
+  {
+    "shapeName": "pqfn26-5x6-0.5p-ir38060",
+    "width": 5,
+    "length": 6
+  },
+  {
+    "shapeName": "bga456-19x19-0.8p",
+    "width": 19,
+    "length": 19
+  },
+  {
+    "shapeName": "con14_molex_15-91-2140_dual_vert_hdr",
+    "width": 16.9,
+    "length": 9.1
+  },
+  {
+    "shapeName": "qfn48-6x6-0.4p-3.6EP",
+    "width": 6,
+    "length": 6
+  },
+  {
+    "shapeName": "bga2116-47.5x47.5-1.0p",
+    "width": 47.5,
+    "length": 47.5
+  },
+  {
+    "shapeName": "bga153-11.5x13-0.5p",
+    "width": 11.5,
+    "length": 13
+  },
+  {
+    "shapeName": "con40_amp_61082-041",
+    "width": 22,
+    "length": 6.2
+  },
+  {
+    "shapeName": "pqfn41-5x6-0.45p-tda21472",
+    "width": 5,
+    "length": 6
+  },
+  {
+    "shapeName": "wson6-1.5x1.5-0.5p_dse",
+    "width": 1.5,
+    "length": 1.5
+  },
+  {
+    "shapeName": "bga96-8x14-0.8p",
+    "width": 8,
+    "length": 14
+  },
+  {
+    "shapeName": "bga30-2.99x2.59-0.5p",
+    "width": 3,
+    "length": 2.6
+  },
+  {
+    "shapeName": "ind2_rect_6_5x6_5",
+    "width": 6.5,
+    "length": 6.5
+  },
+  {
+    "shapeName": "ind2_rect_3.0x3.0",
+    "width": 3,
+    "length": 3
+  },
+  {
+    "shapeName": "ind2_rect_5.2x5.2",
+    "width": 5.2,
+    "length": 5.2
+  },
+  {
+    "shapeName": "usip8-3.5x3.5-0.8p-EP",
+    "width": 3.5,
+    "length": 3.5
+  },
+  {
+    "shapeName": "CON_AMPH_UE62M4620B3211",
+    "width": 0,
+    "length": 0
+  },
+  {
+    "shapeName": "ind2_rect_5.5x5.7",
+    "width": 5.5,
+    "length": 5.7
+  },
+  {
+    "shapeName": "CON_BEL_0879-2C1R-54",
+    "width": 0,
+    "length": 0
+  },
+  {
+    "shapeName": "CON_AMPH_ZQSFP+RCPW_CAGE_2X1_76P_RA",
+    "width": 0,
+    "length": 0
+  },
+  {
+    "shapeName": "CON_TYC_6339168-1",
+    "width": 0,
+    "length": 0
+  },
+  {
+    "shapeName": "ssop5_2.9x1.6_0.95p",
+    "width": 2.9,
+    "length": 1.6
+  },
+  {
+    "shapeName": "24-VFQFN",
+    "width": 5,
+    "length": 5
+  },
+  {
+    "shapeName": "IND_TDK_SPM6550T-1R5M-HZ",
+    "width": 7.8,
+    "length": 6.9
+  },
+  {
+    "shapeName": "BGA484_22X22_2300X2300X0260_0100_XLX-XC6SLX25-2FGG484C",
+    "width": 22,
+    "length": 22
+  },
+  {
+    "shapeName": "tqfp128-14x14-0.4p-10.0EP",
+    "width": 14,
+    "length": 14
+  },
+  {
+    "shapeName": "tssop8-3x4.4-0.65p_IPC",
+    "width": 3,
+    "length": 4.4
+  },
+  {
+    "shapeName": "SOT95P270X145-6N",
+    "width": 3.2,
+    "length": 4
+  },
+  {
+    "shapeName": "bga24-6x8-1.0p",
+    "width": 6,
+    "length": 8
+  },
+  {
+    "shapeName": "net_conn_0.1",
+    "width": 0,
+    "length": 0
+  },
+  {
+    "shapeName": "led0805",
+    "width": 2.0,
+    "length": 1.25
+  },
+  {
+    "shapeName": "con30_samtec_htst_dv_p",
+    "width": 47.4,
+    "length": 15.32
+  },
+  {
+    "shapeName": "QFN32_0500X0500X0090_0050_EP_SILAB-SI52204-A01AGM",
+    "width": 5,
+    "length": 5
+  },
+  {
+    "shapeName": "SOP24_0820X0780X0200_0065_TI-PCA9548ADBR",
+    "width": 8.2,
+    "length": 7.8
+  },
+  {
+    "shapeName": "CON14_2X7_2MM",
+    "width": 7.2,
+    "length": 2
+  },
+  {
+    "shapeName": "con164_PCIE_x16_smd_skt",
+    "width": 91.7,
+    "length": 10.36
+  },
+  {
+    "shapeName": "CON_MLX_455580003",
+    "width": 0,
+    "length": 0
+  },
+  {
+    "shapeName": "MPD_BU2032SM-BT-GTR",
+    "width": 37.3,
+    "length": 10.5
+  },
+  {
+    "shapeName": "CON_MLX_SD-47590-001",
+    "width": 8.3,
+    "length": 5
+  }
+]
